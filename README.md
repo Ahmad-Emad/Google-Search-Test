@@ -13,7 +13,7 @@ The repo contains files for TC using selenium and testNG to search for Vodafone 
 #### Run the project using testNG
 
 - configure testNG.xml values to match the class name in our suite.
-- Add data in TestData.xml file to be provided to test script.
+- Add data in TestData.xml file to be provided to test script to select browser to execute, URL needed, Locators nedded and any other data.
 - Run testNG.xml to run TC and find testNG result.
 - Check test result to see its status (pass/fail).
 - Check reports for more details about the TCs.
