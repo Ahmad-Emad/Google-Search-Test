@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening Google]]>
+    </line>
+    <line>
+      <![CDATA[Find search box]]>
+    </line>
+    <line>
+      <![CDATA[Enter Vodafone in search box]]>
+    </line>
+    <line>
+      <![CDATA[Search for Vodafone]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to page 2 ]]>
+    </line>
+    <line>
+      <![CDATA[Locate all titles in Page 3 ]]>
+    </line>
+    <line>
+      <![CDATA[Count page 2 Number of results]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to page 3 ]]>
+    </line>
+    <line>
+      <![CDATA[Locate all titles in Page 3 ]]>
+    </line>
+    <line>
+      <![CDATA[Count page 3 Number of results]]>
+    </line>
+    <line>
+      <![CDATA[validate page 2 and page 3 search number count ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-11T23:39:58 EET" name="Suite1" finished-at="2022-08-11T23:40:11 EET" duration-ms="13241">
+    <groups>
+    </groups>
+    <test started-at="2022-08-11T23:39:58 EET" name="TEST" finished-at="2022-08-11T23:40:11 EET" duration-ms="13241">
+      <class name="seleniumTest.testNG.googleSearch">
+        <test-method is-config="true" signature="setup()[pri:0, instance:seleniumTest.testNG.googleSearch@29e495ff]" started-at="2022-08-11T23:39:58 EET" name="setup" finished-at="2022-08-11T23:40:05 EET" duration-ms="7583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestMethod()[pri:0, instance:seleniumTest.testNG.googleSearch@29e495ff]" started-at="2022-08-11T23:40:05 EET" name="TestMethod" finished-at="2022-08-11T23:40:11 EET" duration-ms="5344" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Google]]>
+            </line>
+            <line>
+              <![CDATA[Find search box]]>
+            </line>
+            <line>
+              <![CDATA[Enter Vodafone in search box]]>
+            </line>
+            <line>
+              <![CDATA[Search for Vodafone]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to page 2 ]]>
+            </line>
+            <line>
+              <![CDATA[Locate all titles in Page 3 ]]>
+            </line>
+            <line>
+              <![CDATA[Count page 2 Number of results]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to page 3 ]]>
+            </line>
+            <line>
+              <![CDATA[Locate all titles in Page 3 ]]>
+            </line>
+            <line>
+              <![CDATA[Count page 3 Number of results]]>
+            </line>
+            <line>
+              <![CDATA[validate page 2 and page 3 search number count ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method is-config="true" signature="close()[pri:0, instance:seleniumTest.testNG.googleSearch@29e495ff]" started-at="2022-08-11T23:40:11 EET" name="close" finished-at="2022-08-11T23:40:11 EET" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- seleniumTest.testNG.googleSearch -->
+    </test> <!-- TEST -->
+  </suite> <!-- Suite1 -->
+</testng-results>
